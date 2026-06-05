@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Welcome to Shanalyxa
 
-<!--
-**shanalyxa/shanalyxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 SAP ABAP on HANA Developer | Performance & Data Engineering
 
-Here are some ideas to get you started:
+🔷 What is Shanalyxa?
+A personal engineering space focused on:
+- HANA-based analytics
+- High-performance ABAP
+- Scalable SAP solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Expertise
+- ABAP for HANA
+- CDS Views
+- AMDP / SQLScript
+- RAP Model
+- Performance Optimization
+
+---
+
+## 📂 Featured Projects
+- HANA Performance Lab
+- CDS View Library
+- AMDP Playground
+
+---
+
+## 🚀 Mission
+Building optimized, clean, and future-ready SAP solutions.
+
+---
+
+## 📫 Connect
+LinkedIn | Portfolio (coming soon)
+``
